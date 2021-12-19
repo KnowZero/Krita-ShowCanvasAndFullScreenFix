@@ -17,7 +17,7 @@ This is a temporary plugin that overrides the shortcuts for show canvas, full sc
 
 <h2>Important</h2>
 
-<p>Please report any issues with wrong positioning, flickering or other issues on krita-artists.org (Make sure to include your operating system and if you are using subwindow or tab document mode. Videos of issues are welcome). If you do not experience flickering with the default 200ms setting, try lowering it or setting it to 0 and please report your experience.</p>
+<p>Please report any issues with wrong positioning, flickering or other issues on krita-artists at https://krita-artists.org/t/show-canvas-and-full-screen-position-fix-plugin-krita-5/33515 (Make sure to include your operating system and if you are using subwindow or tab document mode. Videos of issues are welcome). If you do not experience flickering with the default 200ms setting, try lowering it or setting it to 0 and please report your experience.</p>
 
 <p>This plugin exists to help test a patch that will try to make it into Krita 5.1, so please report both positive and negative results. If you are using Krita 5.1 Alpha, do pay attention when this patch does hit master so that you can disable this plugin to avoid issues.</p>
 
