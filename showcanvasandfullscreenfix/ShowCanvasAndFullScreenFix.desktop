@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=ShowCanvasAndFullScreenFix
+X-Python-2-Compatible=false
+X-Krita-Manual=ShowCanvasAndFullScreenFix.html
+Name=Show-Canvas And Full-Screen Fix
+Comment=Fix for the canvas positioning when activating show canvas or full screen
